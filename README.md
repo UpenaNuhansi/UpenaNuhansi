@@ -21,7 +21,7 @@ Hi there 👋
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <h2>UpenaNuhansi's GitHub Stats</h2>
+    <h2>UN's GitHub Stats</h2>
     Total Stars Earned: 0<br>
     Total Commits (2024): 0<br>
     Total PRs: 0<br>
