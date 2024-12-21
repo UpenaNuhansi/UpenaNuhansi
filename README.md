@@ -31,18 +31,17 @@ Hi there 👋
   <div style="flex: 1;">
     <h2>Most Used Languages</h2>
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpenaNuhansi&layout=compact&theme=transparent" />
-    <img alt="Top Languages" src="https://github.com/UpenaNuhansi?tab=repositories" />
   </div>
 </div>
 
 Hi there 👋
 
 - 👋 I'm Upena Nuhansi
-- 👤 I'm [your age] years old
-- 💻 I'm interested in HTML,CSS,JavaScript,C++,Hacking,Web developing and...
+- 👤 I'm 23 years old
+- 💻 I'm interested in HTML,CSS,JavaScript,Java...
 - 🎓 I'm currently studying [your field] at [your university]
 - 👥 I'm also member of [your organizations]
-- 💼 I'm looking to collaborate on building websites and web apps, developing linux tools, Linux server operations and...
+- 💼 I'm looking to collaborate on building websites and web apps, and...
 - 📧 Email me via [your email]
 - 📸 Follow me on Instagram [your Instagram link]
 
