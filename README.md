@@ -7,7 +7,7 @@
   
 | 📈 Metrics | 🔢 Count |
 |------------|-----------|
-| ⭐ Total Stars Earned | 0 |
+| ⭐ Total Stars Earned | 57 |
 | 📝 Total Commits (2024) | 0 |
 | 🔄 Total PRs | 0 |
 | ❗ Total Issues | 0 |
@@ -26,12 +26,12 @@
 - C++
 
 ## About Me
-- 👋 I'm Upena Nuhansi
-- 💻 I'm passionate about coding and web development
-- 🎓 Student developer focusing on building awesome projects
-- 🌱 I'm currently learning and growing my skills
-- 👥 Looking to collaborate on interesting projects
-- 📫 How to reach me: upenanuhansi@gmail.com
+ 👋 I'm Upena Nuhansi
+ 💻 I'm passionate about coding and web development
+ 🎓 Student developer focusing on building awesome projects
+ 🌱 I'm currently learning and growing my skills
+ 👥 Looking to collaborate on interesting projects
+ 📫 How to reach me: upenanuhansi@gmail.com
 
 
 ## Connect & Collaborate
