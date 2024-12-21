@@ -26,8 +26,8 @@
 - 🎓 Student developer focusing on building awesome projects
 - 🌱 I'm currently learning and growing my skills
 - 👥 Looking to collaborate on interesting projects
-- 📫 How to reach me: [Add your email]
-- 💬 WhatsApp: [Add your WhatsApp number if you want to share]
+- 📫 How to reach me: upenanuhansi@gmail.com
+
 
 ## Connect & Collaborate
 
@@ -46,9 +46,6 @@
 </a>
 </div>
 
-## Popular Repositories
-<!-- You can list your best repositories here -->
 
----
 
 ⭐️ Don't Forget To Follow Me ⭐️
