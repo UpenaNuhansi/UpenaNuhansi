@@ -31,6 +31,7 @@ Hi there 👋
   <div style="flex: 1;">
     <h2>Most Used Languages</h2>
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpenaNuhansi&layout=compact&theme=transparent" />
+    <img alt="Top Languages" src="https://github.com/UpenaNuhansi?tab=repositories" />
   </div>
 </div>
 
@@ -44,7 +45,7 @@ Hi there 👋
 - 💼 I'm looking to collaborate on building websites and web apps, developing linux tools, Linux server operations and...
 - 📧 Email me via [your email]
 - 📸 Follow me on Instagram [your Instagram link]
-- 📱 Text me on WhatsApp [your WhatsApp number]
+
 
 <div align="center">
   <!-- Add your achievement badges here -->
@@ -67,5 +68,3 @@ Hi there 👋
 </a>
 </div>
 
-## Popular repositories
-<!-- Add your pinned repositories here -->
