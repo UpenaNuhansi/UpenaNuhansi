@@ -17,7 +17,7 @@ Hi there 👋
   <img alt="Author" src="https://img.shields.io/badge/Author-Upena_Nuhansi-purple?style=flat" />
 </div>
 
-# Hey I'm Upena Nuhansi
+# Hey I'm UN
 
 <div style="display: flex;">
   <div style="flex: 1;">
@@ -36,8 +36,8 @@ Hi there 👋
 
 Hi there 👋
 
-- 👋 I'm Upena Nuhansi
-- 👤 I'm 23 years old
+- 👋 I'm UN
+- 👤 I'm [] years old
 - 💻 I'm interested in HTML,CSS,JavaScript,Java...
 - 🎓 I'm currently studying [your field] at [your university]
 - 👥 I'm also member of [your organizations]
