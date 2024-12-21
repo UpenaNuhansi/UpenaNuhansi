@@ -1,18 +1,23 @@
 # Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpv/?username=UpenaNuhansi)
+# UpenaNuhansi's GitHub Stats 📊
 
-## UpenaNuhansi's GitHub Stats
+<div align="center">
+  
+| 📈 Metrics | 🔢 Count |
+|------------|-----------|
+| ⭐ Total Stars Earned | 0 |
+| 📝 Total Commits (2024) | 0 |
+| 🔄 Total PRs | 0 |
+| ❗ Total Issues | 0 |
+| 🤝 Contributed to (last year) | 0 |
 
-| Metric | Count |
-|--------|-------|
-| Total Stars Earned | 0 |
-| Total Commits (2024) | 0 |
-| Total PRs | 0 |
-| Total Issues | 0 |
-| Contributed to (last year) | 0 |
+</div>
 
-## Most Used Languages
+# 💻 Most Used Languages 
+
+<div align="center">
 - Python
 - HTML
 - CSS
