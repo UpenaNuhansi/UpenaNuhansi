@@ -17,12 +17,14 @@ Hi there 👋
   <img alt="Author" src="https://img.shields.io/badge/Author-Upena_Nuhansi-purple?style=flat" />
 </div>
 
-# Hey I'm UN
+# Hey, I'm UN
 
 <div style="display: flex;">
-  <div style="flex: 1;">
-    <h2>UN's GitHub Stats</h2>
-    ![Nuhansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UpenaNuhansi)
+<div style="flex: 1;">
+<h2>UN's GitHub Stats</h2>
+![Nuhansi's GitHub stats]
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UpenaNuhansi&show_icons=true&theme=radical"/>
+
 
   </div>
   <div style="flex: 1;">
@@ -30,8 +32,6 @@ Hi there 👋
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpenaNuhansi&layout=compact&theme=transparent" />
   </div>
 </div>
-
-Hi there 👋
 
 - 👋 I'm UN
 - 👤 I'm [] years old
