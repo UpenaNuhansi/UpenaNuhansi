@@ -1,50 +1,35 @@
-Hi there 👋
+## Hello! 👋
 
-<img alt="Views" src="https://komarev.com/ghpv/?username=UpenaNuhansi&color=brightgreen" />
+- 👋 I'm **Upena Nuhansi**, a student studying [Computing & Information Systems](https://www.sab.ac.lk/computing/undergraduate/bsc-is-about) at [Sabaragamuwa University Sri Lanka](https://www.sab.ac.lk/).
+- 💻 I interseted in **HTML**, **CSS**, **JavaScript**, **Java**, and **Python**.
+- 🎨 I enjoy working on **UI/UX design**, creating user-friendly interfaces.
+- 🌱 I'm always learning and contributing to open-source projects.
 
-<div>
-  <a href="#">
-    <img alt="Forks" src="https://img.shields.io/badge/Forks-1-black?style=flat" />
-  </a>
-  <a href="#">
-    <img alt="Stars" src="https://img.shields.io/badge/Stars-2-black?style=flat" />
-  </a>
-</div>
-
-<div>
-  <img alt="Repo Size" src="https://img.shields.io/badge/Repo_Size-31_KB-black?style=flat" />
-  <img alt="License" src="https://img.shields.io/badge/License-GPL--3.0-purple?style=flat" />
-  <img alt="Author" src="https://img.shields.io/badge/Author-Upena_Nuhansi-purple?style=flat" />
-</div>
-
-# Hey, I'm Nuhansi
 
 <div style="display: flex;">
 <div style="flex: 1;">
-<h2>My GitHub Stats</h2>
+<h2>📊My GitHub Stats</h2>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UpenaNuhansi&show_icons=true&theme=cobalt"/>
 
 
-  </div>
   <div style="flex: 1;">
-    <h2>Most Used Languages</h2>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpenaNuhansi&layout=compact&theme=transparent" />
+    <h2>🗣️ Most Used Languages</h2>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpenaNuhansi&layout=compact&theme=cobalt"/>
   </div>
 </div>
 
-- 👋 I'm Upena Nuhansi
-- 👤 I'm  years old
-- 💻 I'm interested in HTML,CSS,JavaScript,Java...
-- 🎓 I'm currently studying [your field] at [your university]
-- 👥 I'm also member of [your organizations]
-- 💼 I'm looking to collaborate on building websites and web apps, and...
-- 📧 Email me via [your email]
-- 📸 Follow me on Instagram [your Instagram link]
 
+## 🔝 Top Contributed Repo
+<div>
 
-<div align="center">
-  <!-- Add your achievement badges here -->
+<img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=UpenaNuhansi&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
+
+<h2>🏆 GitHub Trophies</h2>
+<div align="center">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=UpenaNuhansi&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
+
 
 ## 💛 Connect & Collaborate
 
@@ -52,14 +37,12 @@ Hi there 👋
 <a href="[your portfolio link]">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white" />
 </a>
-<a href="[your LinkedIn link]">
+<a href="https://www.linkedin.com/in/upena-nuhansi-2a8bba234/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white" />
 </a>
-<a href="[your Twitter link]">
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logoColor=white" />
+<a href="mailto:upenanuhansi@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" />
 </a>
-<a href="mailto:[your email]">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logoColor=white" />
-</a>
+
 </div>
 
