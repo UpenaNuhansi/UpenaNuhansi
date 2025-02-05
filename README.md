@@ -22,11 +22,7 @@ Hi there 👋
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>UN's GitHub Stats</h2>
-    Total Stars Earned: 0<br>
-    Total Commits (2024): 0<br>
-    Total PRs: 0<br>
-    Total Issues: 0<br>
-    Contributed to (last year): 0
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UpenaNuhansi)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   <div style="flex: 1;">
     <h2>Most Used Languages</h2>
