@@ -17,13 +17,12 @@ Hi there 👋
   <img alt="Author" src="https://img.shields.io/badge/Author-Upena_Nuhansi-purple?style=flat" />
 </div>
 
-# Hey, I'm UN
+# Hey, I'm Nuhansi
 
 <div style="display: flex;">
 <div style="flex: 1;">
-<h2>UN's GitHub Stats</h2>
-![Nuhansi's GitHub stats]
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UpenaNuhansi&show_icons=true&theme=radical"/>
+<h2>My GitHub Stats</h2>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UpenaNuhansi&show_icons=true&theme=cobalt"/>
 
 
   </div>
@@ -33,8 +32,8 @@ Hi there 👋
   </div>
 </div>
 
-- 👋 I'm UN
-- 👤 I'm [] years old
+- 👋 I'm Upena Nuhansi
+- 👤 I'm  years old
 - 💻 I'm interested in HTML,CSS,JavaScript,Java...
 - 🎓 I'm currently studying [your field] at [your university]
 - 👥 I'm also member of [your organizations]
