@@ -22,7 +22,8 @@ Hi there 👋
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>UN's GitHub Stats</h2>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UpenaNuhansi)](https://github.com/anuraghazra/github-readme-stats)
+    ![Nuhansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UpenaNuhansi)
+
   </div>
   <div style="flex: 1;">
     <h2>Most Used Languages</h2>
